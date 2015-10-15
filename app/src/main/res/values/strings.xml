@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CustomWidget</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_my_top_bar">MyTopBarActivity</string>
+    <string name="title_activity_empty_list_view">EmptyListViewActivity</string>
+    <string name="title_activity_hide_tool_bar_list_view">HideToolBarListViewActivity</string>
+    <string name="title_activity_moveable_view">MoveableViewActivity</string>
+    <string name="title_activity_side_slip">SideSlipActivity</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+</resources>

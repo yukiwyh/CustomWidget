@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CustomWidget.MyTopBar
+        android:id="@+id/mytopbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        custom:title_text="这是一个标题"
+        custom:left_background="#FF0000"
+        custom:right_background="#0000FF"
+        custom:left_text="左按钮"
+        custom:right_text="右按钮"/>
+
+</LinearLayout>
