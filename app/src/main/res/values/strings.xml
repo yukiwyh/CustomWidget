@@ -10,4 +10,5 @@
     <string name="title_activity_moveable_view">MoveableViewActivity</string>
     <string name="title_activity_side_slip">SideSlipActivity</string>
     <string name="title_activity_notification">NotificationActivity</string>
+    <string name="title_activity_banner">BannerActivity</string>
 </resources>
