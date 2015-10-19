@@ -1,4 +1,4 @@
 # CustomWidget
 my Custonwidget study
 
-啊哈哈哈
+用于Android自定义控件的学习。
