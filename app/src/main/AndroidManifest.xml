@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".BannerActivity"
+            android:name=".LoadingActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,7 +23,8 @@
         <activity android:name=".HideToolBarListViewActivity" />
         <activity android:name=".MoveableViewActivity" />
         <activity android:name=".SideSlipActivity" />
-        <activity android:name=".SlipActivity"/>
+        <activity android:name=".SlipActivity" />
+        <activity android:name=".BannerActivity"/>
     </application>
 
 </manifest>
